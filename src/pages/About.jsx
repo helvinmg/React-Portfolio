@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <>
-    <h1>Meet Our Team</h1>
+    <h1>Meet Our Team Updated</h1>
     <ol>
       <li>CEO - Bob Marty</li>
       <li>CFO - George V</li>

@@ -5,7 +5,7 @@ export default function Contact() {
     <h1 style={{'color':'green'}}>Feel Free to Contact Us</h1>
     <img style={{'width':'33%','display':'block','margin':'0 auto'}} src={contact}/>
     <button> Call </button>
-    <button> Email </button>
+    <button> Emails </button>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, aperiam.</p>
     </>
   )
